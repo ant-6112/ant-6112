@@ -3,12 +3,12 @@
 
 <hr/>
 
-- 😴 I'm Currently Working - **Absolutely NOTHING** 
-- 🌱 I’m Currently Learning - **Rust and React Native**
-- 💬 Ask Me About - **Web Development**
-- 📧 Reach Me At - [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrang6112@gmail.com)
-- 😄 Pronouns - **He/Him**
-- ⚡ Fun fact About Me - **I think I am an Alien 👽** 	
+- 😴 I'm Currently Working on **Absolutely NOTHING** 
+- 🌱 I’m Currently Learning **Rust and React Native**
+- 💬 Ask Me About **Web Development**
+- 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrang6112@gmail.com)
+- 😄 Pronouns **He/Him**
+- ⚡ Fun fact About Me is that **I think I am an Alien 👽** 	
 
 <hr />
 
