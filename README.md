@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Antrang</h1>
+<h1 align="left">Hi There 👋, I'm Antrang</h1>
 <h3 align="left">Welcome to my profile! My name is Antrang Agrawal. I am a Bachelor's student at Vellore Institute of Technology, Vellore Campus, studying Computer Science and Engineering. I am a technology enthusiast and an open-source supporter. Aside from that, I occasionally design and write, as well as play badminton. </h3>
 
 <hr/>
@@ -9,6 +9,8 @@
 - 🌱 I’m Currently learning - **Rust and React Native**
 
 - 💬 Ask me about - **Web Development**
+
+- 📧 Reach me at - [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrang6112@gmail.com)
 
 - 😄 Pronouns - **He/Him**
 
@@ -35,15 +37,9 @@
   <img alt="Antrang's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 
-<a href="https://medium.com/@antrang6112">
-  <img alt="Antrang's Medium" width="50px" src="https">
-</p>
+<br/>
 
-<a href="https:/">
-  <img alt="Antrang's Gmail" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-
-You are free to ask me any question you want . I'm excited to learn new things, gain experience, collaborate, and create high-quality projects for people all over the world!
+<h3 align="left"> You are free to ask me any question you want . I'm excited to learn new things, gain experience, collaborate, and create high-quality projects for people all over the world! </h3>
 
 <hr/>
 
