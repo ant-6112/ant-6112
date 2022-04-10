@@ -3,8 +3,8 @@
 
 <hr/>
 
-- 😴 I'm Currently Working on **Absolutely NOTHING** 
-- 🌱 I’m Currently Learning **Rust and React Native**
+- 😴 I'm Currently Working on Everything
+- 🌱 I’m Currently Re-Learning Previous Skills
 - 💬 Ask Me About **Web Development**
 - 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrang6112@gmail.com)
 - 😄 Pronouns **He/Him**
