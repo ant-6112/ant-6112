@@ -8,7 +8,7 @@
 - 💬 Ask Me About **Web Development**
 - 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrang6112@gmail.com)
 - 😄 Pronouns **He/Him**
-- ⚡ Fun fact About Me is that **I think I am an Alien 👽** 	
+- ⚡ Fun fact About Me is that **I am a Weeb and ..... I think I am an Alien 👽 too** 	
 
 <hr />
 
