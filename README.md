@@ -5,7 +5,7 @@
 
 - 😴 I'm Currently Working on **College Projects**.
 - 🌱 I’m Currently Re-Learning Previous Skills
-- 💬 Ask Me About **Web Development**
+- 💬 Ask Me About **Web Development**, **Machine Learning**
 - 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrang6112@gmail.com)
 - 😄 Pronouns **He/Him**
 - ⚡ Fun fact About Me is that **I am a Weeb and ..... I think I am an Alien 👽 too** 	
@@ -41,6 +41,9 @@
 
 <br/>
 
+[![My Skills](https://skillicons.dev/icons?i=py,azure,r,tensorflow,pytorch,linux,js,html,css)](https://skillicons.dev)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
