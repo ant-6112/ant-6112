@@ -5,7 +5,7 @@
 
 - 😴 I'm Currently Working on **Data Sciene Projects**.
 - 🌱 I’m Currently Re-Learning Previous Skills
-- 💬 Ask Me About **Data Sciencet**, **Machine Learning**
+- 💬 Ask Me About **Data Science**, **Machine Learning**
 - 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrang6112@gmail.com)
 - 😄 Pronouns **He/Him**
 - ⚡ Fun fact About Me is that **I am a Weeb and ..... I think I am an Alien 👽 too** 	
