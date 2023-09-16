@@ -40,7 +40,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=py,azure,gcp,r,tensorflow,linux,js,html,css,heroku,git,mysql,mongodb,sqlite,numpy,pandas,gitlab,github,cpp,c,vscode,neovim,flask,figma,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,azure,gcp,r,tensorflow,linux,js,html,css,heroku,git,mysql,mongodb,sqlite,gitlab,github,cpp,c,vscode,neovim,flask,figma,matlab)](https://skillicons.dev)
 
 
 <hr/>
