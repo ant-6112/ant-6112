@@ -4,7 +4,7 @@
 <hr/>
 
 - 😴 I'm Currently prepping for **College Placements**.
-- 💬 Ask Me About **Databases**, **Cloud Systems**
+- 💬 Ask Me About **Data Anlaysis and Visualization**, **Computer Vision**,
 - 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrang6112@gmail.com)
 - 😄 Pronouns **He/Him**
 - ⚡ Fun fact About Me is that **I am a Weeb and ..... I think I am an Alien 👽 too** 	
