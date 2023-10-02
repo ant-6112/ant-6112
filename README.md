@@ -1,4 +1,4 @@
-<h1 align="left">Hi There 👋, I'm Antrang</h1>
+<h1 align="center">Hi There 👋, I'm Antrang</h1>
 <h3 align="left">Welcome to my profile! My name is Antrang Agrawal. I am a Bachelor's student at Vellore Institute of Technology, Vellore Campus, studying Computer Science and Engineering. I am a technology enthusiast and an open-source supporter. Aside from that, I occasionally design and write, as well as play badminton. </h3>
 
 <hr/>
