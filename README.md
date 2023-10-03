@@ -4,7 +4,7 @@
 <hr/>
 
 - Check Out My Kaggle Notebooks at <a href="https://www.kaggle.com/antrangagrawal"> Kaggle </a>
-- 😴 I'm Currently prepping for **College Placements**.
+- 😴 I'm Currently Actively Seeking Internship Opportunities.
 - 💬 Ask Me About **Machine Learning**, **Computer Vision**, **Data Analytics** and **Data Visualization**
 - 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrang6112@gmail.com)
 - 😄 Pronouns **He/Him**
