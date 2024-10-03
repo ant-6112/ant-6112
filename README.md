@@ -49,8 +49,6 @@
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
-<h2 align="left"> Here are Some Cats 🐱 and Dogs 🐶 : </h2>
-
 <br/>
 
 <div>
