@@ -1,11 +1,10 @@
 <h1 align="center">Hi There 👋, I'm Antrang</h1>
-<h3 align="center">Welcome to my profile! My name is Antrang Agrawal. I am a Bachelor's student at Vellore Institute of Technology, Vellore Campus, studying Computer Science and Engineering. I am a technology enthusiast and an open-source supporter. Aside from that, I occasionally design and write, as well as play badminton. </h3>
+<h3 align="center">Welcome to my profile! My name is Antrang Agrawal.I am a technology enthusiast and an open-source supporter. Aside from that, I occasionally design and write as well. </h3>
 
 <hr/>
 
 - Check Out My Kaggle Notebooks at <a href="https://www.kaggle.com/antrangagrawal"> Kaggle </a>
-- 😴 I'm Currently an Analyst-Intern at HSBC Bank.
-- 💬 Ask Me About **Machine Learning**, **Computer Vision**, **Data Analytics** and **Data Visualization**
+- 💬 Ask Me About **Python Applications**, **Databases**, **Data Analytics** and **Data Visualization** **
 - 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrangagrawal02@gmail.com)
 - 😄 Pronouns **He/Him**
 - ⚡ Fun fact About Me is that **I am a Weeb and ..... I think I am an Alien 👽 too** 	
