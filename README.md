@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Antrang</h1>
-<h3 align="center">Welcome to my profile! My name is Antrang Agrawal.I am a technology enthusiast and an open-source supporter. Aside from that, I occasionally design and write as well. </h3>
+<h3 align="center">Welcome to my profile! My name is Antrang Agrawal. I am a technology enthusiast and an open-source supporter. Aside from that, I occasionally design and write as well. </h3>
 
 <hr/>
 
