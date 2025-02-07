@@ -6,8 +6,6 @@
 - Check Out My Kaggle Notebooks at <a href="https://www.kaggle.com/antrangagrawal"> Kaggle </a>
 - 💬 Ask Me About **Python Applications**, **Databases**, **Data Analytics** and **Data Visualization**
 - 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrangagrawal02@gmail.com)
-- 😄 Pronouns **He/Him**
-- ⚡ Fun fact About Me is that **I am a Weeb and ..... I think I am an Alien 👽 too** 	
 
 <hr />
 
@@ -44,12 +42,6 @@
 
 
 <hr/>
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
-
-<br/>
 
 <div>
    <img src="catjam.gif" width="38" height="38"/>
