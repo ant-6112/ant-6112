@@ -13,8 +13,6 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 - 💬 Ask Me About **Python Applications**, **Databases**, **Data Analytics** and **Data Visualization** <br/>
 - 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrangagrawal02@gmail.com) <br/>
 
-<hr />
-
 <h5/>
 
 ## Technologies
@@ -22,8 +20,6 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=py,azure,gcp,r,tensorflow,linux,js,html,css,heroku,git,mysql,mongodb,sqlite,gitlab,github,cpp,c,vscode,neovim,flask,figma,matlab)](https://skillicons.dev)
-
-<hr/>
 
 <h5 align="left" color="white">I'm available for any consulting and contract work, you can find me on: </h5>
 
