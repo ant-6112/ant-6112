@@ -6,12 +6,15 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 </h5>
 
 <hr/>
+<h5 align="left" color="white">
 
-- Check Out My Kaggle Notebooks at <a href="https://www.kaggle.com/antrangagrawal"> Kaggle </a>
-- 💬 Ask Me About **Python Applications**, **Databases**, **Data Analytics** and **Data Visualization**
-- 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrangagrawal02@gmail.com)
+- Check Out My Kaggle Notebooks at <a href="https://www.kaggle.com/antrangagrawal"> Kaggle </a><br/>
+- 💬 Ask Me About **Python Applications**, **Databases**, **Data Analytics** and **Data Visualization** <br/>
+- 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrangagrawal02@gmail.com) <br/>
 
 <hr />
+
+<h5/>
 
 <h5 align="left" color="white">I'm available for any consulting and contract work, you can find me on: </h5>
 
