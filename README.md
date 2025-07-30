@@ -19,7 +19,7 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 
 
 
-<h5 align="left" color="white"> You are free to ask me any question you want . I'm excited to learn new things, gain experience, collaborate, and create high-quality projects for people all over the world! </h5>
+
 
 <hr/>
 
@@ -50,3 +50,5 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 </a>
 
 <br/>
+
+<h5 align="left" color="white"> You are free to ask me any question you want . I'm excited to learn new things, gain experience, collaborate, and create high-quality projects for people all over the world! </h5>
