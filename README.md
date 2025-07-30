@@ -17,6 +17,21 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 
 <h5/>
 
+
+
+<h5 align="left" color="white"> You are free to ask me any question you want . I'm excited to learn new things, gain experience, collaborate, and create high-quality projects for people all over the world! </h5>
+
+<hr/>
+
+## ⚡ Technologies
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=py,azure,gcp,r,tensorflow,linux,js,html,css,heroku,git,mysql,mongodb,sqlite,gitlab,github,cpp,c,vscode,neovim,flask,figma,matlab)](https://skillicons.dev)
+
+
+<hr/>
+
 <h5 align="left" color="white">I'm available for any consulting and contract work, you can find me on: </h5>
 
 <p align="left">
@@ -35,18 +50,3 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 </a>
 
 <br/>
-
-<h5 align="left" color="white"> You are free to ask me any question you want . I'm excited to learn new things, gain experience, collaborate, and create high-quality projects for people all over the world! </h5>
-
-<hr/>
-
-## ⚡ Technologies
-
-<br/>
-
-[![My Skills](https://skillicons.dev/icons?i=py,azure,gcp,r,tensorflow,linux,js,html,css,heroku,git,mysql,mongodb,sqlite,gitlab,github,cpp,c,vscode,neovim,flask,figma,matlab)](https://skillicons.dev)
-
-
-<hr/>
-
-
