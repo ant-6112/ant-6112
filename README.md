@@ -1,8 +1,8 @@
-<h6 align="left" color="white">Hello,
+<h5 align="left" color="white">Hello,
 
 I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Science, located in India. Since 2016, my main professional interest is in Python.
 
-</h6>
+</h5>
 
 <hr/>
 
@@ -12,7 +12,7 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 
 <hr />
 
-<h2 align="left">I'm available for any consulting and contract work, you can find me on: </h2>
+<h5 align="left">I'm available for any consulting and contract work, you can find me on: </h5>
 
 <br/>
 
