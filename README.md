@@ -9,9 +9,9 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 <hr/>
 <h5 align="left" color="white">
 
-- Check Out My Kaggle Notebooks at <a href="https://www.kaggle.com/antrangagrawal"> Kaggle </a><br/>
+- Check Out My Kaggle Notebooks at  Kaggle </a><br/>
 - 💬 Ask Me About **Python Applications**, **Databases**, **Data Analytics** and **Data Visualization** <br/>
-- 📧 Reach Me At [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrangagrawal02@gmail.com) <br/>
+- 📧 Reach Me At 
 
 <h5/>
 
@@ -28,5 +28,7 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 - <a href="https://twitter.com/Antrang20">Twitter</a>
 - <a href="https://instagram.com/antrang6112">Instagram</a>
 - <a href="https://www.linkedin.com/in/antrang-agrawal-688239209">Linkedin</a>
+- <a href="https://www.kaggle.com/antrangagrawal"> Kaggle </a>
+- [![Gmail Badge](https://img.shields.io/badge/-antrang6112-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:antrang6112@gmail.com)](mailto:antrangagrawal02@gmail.com) <br/>
 
 <h5 align="left" color="white"> You are free to ask me any question you want . I'm excited to learn new things, gain experience, collaborate, and create high-quality projects for people all over the world! </h5>
