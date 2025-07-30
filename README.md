@@ -23,7 +23,7 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 
 <hr/>
 
-## ⚡ Technologies
+## Technologies
 
 <br/>
 
