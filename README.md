@@ -7,13 +7,6 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 </h5>
 
 <hr/>
-<h5 align="left" color="white">
-
-- Check Out My Kaggle Notebooks at  Kaggle </a><br/>
-- 💬 Ask Me About **Python Applications**, **Databases**, **Data Analytics** and **Data Visualization** <br/>
-- 📧 Reach Me At 
-
-<h5/>
 
 ## Technologies
 
