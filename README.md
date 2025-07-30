@@ -18,8 +18,6 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 
 <h5 align="left" color="white">I'm available for any consulting and contract work, you can find me on: </h5>
 
-<br/>
-
 <p align="left">
 
 <a href="https://twitter.com/Antrang20">
