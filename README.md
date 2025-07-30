@@ -1,5 +1,8 @@
-<h1 align="left">Hi There 👋, I'm Antrang</h1>
-<h3 align="left">Welcome to my profile! My name is Antrang Agrawal. I am a technology enthusiast and an open-source supporter. Aside from that, I occasionally design and write as well. </h3>
+<h6 align="left">Hello,
+
+I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Science, located in India. Since 2016, my main professional interest is in Python.
+
+</h6>
 
 <hr/>
 
@@ -9,7 +12,7 @@
 
 <hr />
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">I'm available for any consulting and contract work, you can find me on: </h2>
 
 <br/>
 
@@ -30,7 +33,7 @@
 
 <br/>
 
-<h3 align="left"> You are free to ask me any question you want . I'm excited to learn new things, gain experience, collaborate, and create high-quality projects for people all over the world! </h3>
+<h6 align="left"> You are free to ask me any question you want . I'm excited to learn new things, gain experience, collaborate, and create high-quality projects for people all over the world! </h3>
 
 <hr/>
 
