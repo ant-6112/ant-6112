@@ -49,27 +49,4 @@ I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Scie
 
 <hr/>
 
-<div>
-   <img src="catjam.gif" width="38" height="38"/>
-   <img src="meow_attention.png" width="38" height="38"/>
-   <img src="meow_party.gif" width="38" height="38"/>
-   <img src="typingcat.gif" width="38" height="38"/>
-   <img src="catjam.gif" width="38" height="38"/>
-   <img src="meow_fat.gif" width="38" height="38"/>
-   <img src="meow_party.gif" width="38" height="38"/>
-   <img src="typingcat.gif" width="38" height="38"/>
-   <img src="catjam.gif" width="38" height="38"/>
-   <img src="confused_dog.gif" width="38" height="38"/>
-   <img src="friday_dog.gif" width="38" height="38"/>
-   <img src="cool-doge.gif" width="38" height="38"/>
-   <img src="catjam.gif" width="38" height="38"/>
-   <img src="typingcat.gif" width="38" height="38"/>
-   <img src="confused_dog.gif" width="38" height="38"/>
-   <img src="meow_attention.png" width="38" height="38"/>
-   <img src="catjam.gif" width="38" height="38"/>
-   <img src="typingcat.gif" width="38" height="38"/>
-   <img src="cool-doge.gif" width="38" height="38"/>
-   <img src="friday_dog.gif" width="38" height="38"/>
-</div>
-
 
