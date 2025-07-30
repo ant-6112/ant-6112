@@ -1,4 +1,4 @@
-<h6 align="left">Hello,
+<h6 align="left" color="white">Hello,
 
 I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Science, located in India. Since 2016, my main professional interest is in Python.
 
