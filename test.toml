@@ -1,0 +1,28 @@
+[project]
+name = "{{ project_name }}"
+version = "1.0.0"
+
+[inputs]
+{% for i in range(num_inputs) %}
+{{ input_{{ i + 1 }}_identifier }} = "{{ input_{{ i + 1 }}_placeholder }}"
+{% endfor %}
+
+[input_formats]
+{% for i in range(num_inputs) %}
+{{ input_{{ i + 1 }}_identifier }}_format = "{{ input_{{ i + 1 }}_format }}"
+{% if input_{{ i + 1 }}_format == "XLSX" %}
+{{ input_{{ i + 1 }}_identifier }}_sheet_name = "{{ input_{{ i + 1 }}_sheet_name }}"
+{{ input_{{ i + 1 }}_identifier }}_start_row = {{ input_{{ i + 1 }}_start_row }}
+{{ input_{{ i + 1 }}_identifier }}_start_col = {{ input_{{ i + 1 }}_start_col }}
+{% endif %}
+{% endfor %}
+
+[outputs]
+{% for i in range(num_outputs) %}
+{{ output_{{ i + 1 }}_name }}_format = "{{ output_{{ i + 1 }}_format }}"
+{% endfor %}
+
+[ui]
+{% for i in range(num_ui_inputs) %}
+{{ ui_input_{{ i + 1 }}_variable }} = "{{ ui_input_{{ i + 1 }}_label }}"
+{% endfor %}
