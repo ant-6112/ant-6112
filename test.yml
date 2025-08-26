@@ -1,0 +1,104 @@
+_templates_suffix: .jinja
+_envops:
+    block_start_string: "{%"
+    block_end_string: "%}"
+    variable_start_string: "{{"
+    variable_end_string: "}}"
+
+# Basic project information
+project_name:
+    type: str
+    help: What is your project name?
+    default: data_processor
+
+# Input configuration
+num_inputs:
+    type: int
+    help: How many input files/data sources do you need?
+    default: 1
+
+# Dynamic input configuration
+{% for i in range(num_inputs) %}
+input_{{ i + 1 }}_identifier:
+    type: str
+    help: "What is the identifier name for input {{ i + 1 }}?"
+    default: "input_{{ i + 1 }}"
+
+input_{{ i + 1 }}_placeholder:
+    type: str
+    help: "What is the placeholder name for input {{ i + 1 }}?"
+    default: "Input {{ i + 1 }} Data"
+
+input_{{ i + 1 }}_format:
+    type: str
+    help: "What is the format of input {{ i + 1 }}?"
+    choices:
+        - CSV
+        - XLSX
+    default: CSV
+
+{% if input_{{ i + 1 }}_format == "XLSX" %}
+input_{{ i + 1 }}_sheet_name:
+    type: str
+    help: "What is the sheet name for input {{ i + 1 }}?"
+    default: "Sheet1"
+
+input_{{ i + 1 }}_start_row:
+    type: int
+    help: "What row does the data start from for input {{ i + 1 }}? (1-based)"
+    default: 1
+
+input_{{ i + 1 }}_start_col:
+    type: int
+    help: "What column does the data start from for input {{ i + 1 }}? (1-based)"
+    default: 1
+{% endif %}
+{% endfor %}
+
+# Output configuration
+num_outputs:
+    type: int
+    help: How many output files do you need?
+    default: 1
+
+{% for i in range(num_outputs) %}
+output_{{ i + 1 }}_name:
+    type: str
+    help: "What is the name for output {{ i + 1 }}?"
+    default: "output_{{ i + 1 }}"
+
+output_{{ i + 1 }}_format:
+    type: str
+    help: "What is the format of output {{ i + 1 }}?"
+    choices:
+        - CSV
+        - XLSX
+    default: CSV
+{% endfor %}
+
+# UI configuration
+num_ui_inputs:
+    type: int
+    help: How many UI input elements do you need?
+    default: 1
+
+{% for i in range(num_ui_inputs) %}
+ui_input_{{ i + 1 }}_type:
+    type: str
+    help: "What type of UI input is element {{ i + 1 }}?"
+    choices:
+        - File Selection
+        - Folder Selection
+        - Checkbox
+    default: File Selection
+
+ui_input_{{ i + 1 }}_label:
+    type: str
+    help: "What is the label for UI input {{ i + 1 }}?"
+    default: "UI Input {{ i + 1 }}"
+
+ui_input_{{ i + 1 }}_variable:
+    type: str
+    help: "What is the variable name for UI input {{ i + 1 }}?"
+    default: "ui_input_{{ i + 1 }}"
+{% endfor %}
