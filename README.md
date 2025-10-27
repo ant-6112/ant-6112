@@ -2,7 +2,7 @@
 Hello,
 <br/><br/>
 
-I'm Antrang Agrawal, Software Engineer with a Bachelor's Degree in Computer Science, located in India. Since 2024, my main professional interest is in Python. During university and much of my work since I've specialized in building machine learning workflows, data engineering pipelines, and pushing automation wherever possible. Lately, i've been working with large language models, but i also enjoy diving into full-stack development—especially using react and typescript as well.
+I'm Antrang Agrawal, Engineer with a Bachelor's Degree in Computer Science, located in India. Since 2024, my main professional interest is in Data Science. During university and much of my work since I've specialized in building machine learning workflows, data engineering pipelines, and pushing automation wherever possible. Lately, i've been working with large language models, but i also enjoy diving into full-stack development—especially using react and typescript as well.
 <br/>
 </h5>
 
